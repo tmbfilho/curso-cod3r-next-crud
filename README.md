@@ -1,3 +1,10 @@
+## Importante
+Este projeto foi criado como um exercício do curso Next.js & React da [Cod3r](https://www.cod3r.com.br/)
+
+A integração com firebase foi atualizada para a versão 9.8.1
+
+## Conteúdo Original
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
